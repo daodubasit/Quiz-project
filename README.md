@@ -19,5 +19,7 @@ Import the database file given in the rpo
 
 ## How to use?
 After deploying access localhost:portnumber/index.php
+Default Username: xx@yahoo.com
+Default Password:asdf
 ## License
 MIT, Apache
